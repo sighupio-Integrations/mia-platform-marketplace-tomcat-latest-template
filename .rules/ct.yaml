@@ -1,0 +1,9 @@
+# Copyright (c) 2017-present SIGHUP s.r.l All rights reserved.
+# Use of this source code is governed by a proprietary
+# license that can be found in the LICENSE file.
+---
+remote: origin
+target-branch: main
+chart-dirs:
+  - helm_chart
+helm-extra-args: --timeout 600s
