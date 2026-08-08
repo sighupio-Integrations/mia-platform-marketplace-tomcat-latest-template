@@ -1,0 +1,12 @@
+.dockerignore
+.git
+.gitignore
+.gitlab-ci.yml
+.idea
+.vscode
+*.DS_Store
+*.env
+*.log*
+Dockerfile
+docs
+README.md
